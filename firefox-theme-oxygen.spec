@@ -8,7 +8,7 @@
 %define _mozillaextpath %{_mozillapath}/extensions
 
 Summary: Oxygen Icons for Mozilla Firefox
-Name: mozilla-firefox-theme-oxygen
+Name: firefox-theme-oxygen
 Version: 0.1
 Release: %mkrel 9
 License: MPLv1.1 and LGPLv2+
