@@ -2,7 +2,7 @@
 %define debug_package          %{nil}
 
 %define ff_epoch 0
-%define ff_ver 3.0.11
+%define ff_ver 3.0.12
 
 %define _mozillapath %{_libdir}/firefox-%{ff_ver}
 %define _mozillaextpath %{_mozillapath}/extensions
@@ -10,7 +10,7 @@
 Summary: Oxygen Icons for Mozilla Firefox
 Name: firefox-theme-oxygen
 Version: 0.1
-Release: %mkrel 18
+Release: %mkrel 19
 License: MPLv1.1 and LGPLv2+
 Group: Networking/WWW
 URL: http://websvn.kde.org/trunk/playground/artwork/Oxygen/firefox/Oxygen
