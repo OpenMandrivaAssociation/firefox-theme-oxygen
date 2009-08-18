@@ -15,6 +15,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
 Requires: firefox = %{firefox_epoch}:%{firefox_version}
 Obsoletes: mozilla-firefox-theme-oxygen < %{version}-%{release}
 Provides: mozilla-firefox-theme-oxygen = %{version}-%{release}
+BuildRequires: firefox-devel
 
 %description
 Oxygen theme is a KDE4-like theme using Oxygen icons for Mozilla Firefox.
