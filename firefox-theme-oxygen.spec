@@ -9,7 +9,7 @@ Version: 0.1
 Release: %mkrel 30
 License: MPLv1.1 and LGPLv2+
 Group: Networking/WWW
-URL: http://websvn.kde.org/trunk/playground/artwork/Oxygen/firefox/Oxygen
+URL: https://websvn.kde.org/trunk/playground/artwork/Oxygen/firefox/Oxygen
 Source: mozilla-firefox-theme-oxygen-%version.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
 Requires: firefox = %{firefox_epoch}:%{firefox_version}
