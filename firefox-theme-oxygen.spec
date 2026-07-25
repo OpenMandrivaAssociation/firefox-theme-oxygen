@@ -6,7 +6,7 @@
 Summary: Oxygen Icons for Mozilla Firefox
 Name: firefox-theme-oxygen
 Version: 0.1
-Release: %mkrel 30
+Release: 31
 License: MPLv1.1 and LGPLv2+
 Group: Networking/WWW
 URL: https://websvn.kde.org/trunk/playground/artwork/Oxygen/firefox/Oxygen
